@@ -13,19 +13,15 @@ Error handling for failed API requests.
 
 Responsive design using Tailwind CSS.
 
-<!-- Technologies Used -->
-
-React.js
-
-Axios (for API requests)
-
-Tailwind CSS (for styling)
 
 <!-- Install Dependencies -->
 
 Node.js
 npm
 Axios
+React.js
+Axios (for API requests)
+Tailwind CSS (for styling)
 
 Create a .env file in the root directory and add OMDb API key Gotten from OMDb API.
 

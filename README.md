@@ -7,7 +7,7 @@ Search for movies by title.
 
 Fetch movie details from OMDb API.
 
-Display search results dynamically.
+Display search results.
 
 Error handling for failed API requests.
 

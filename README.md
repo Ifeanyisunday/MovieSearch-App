@@ -1,4 +1,4 @@
-This is a simple Movie Search App built with React.js that allows users to search for movies using the OMDb API. The app fetches movie details based on the user's query and displays the results dynamically.
+This is a simple Movie Search App built with React.js that allows users to search for movies using the OMDb API. The app fetches movie details based on the user's query and displays the results.
 
 
 <!-- Features -->
@@ -43,3 +43,7 @@ Renders MovieCard component to display results.
 Receives movies array as props.
 
 Maps through the results and displays each movie’s title, poster, and year.
+
+*Navbar.js
+
+receives fetch function, search value and setValue state as props
